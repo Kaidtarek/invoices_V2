@@ -95,7 +95,12 @@ I have developed a robust, cross-platform **Invoice Management System** using **
 ## Screenshots
 
 ![Alt Text](https://firebasestorage.googleapis.com/v0/b/kaidport.appspot.com/o/Screenshot%20from%202024-09-05%2015-36-51.png?alt=media&token=10a08a3e-b662-479b-9be0-4a320921a8bb)
-
+![Alt Text](https://firebasestorage.googleapis.com/v0/b/kaidport.appspot.com/o/Screenshot%20from%202024-09-05%2015-36-57.png?alt=media&token=b7f8c460-114f-4167-8695-fef356c3cee8)
+![Alt Text]()
+![Alt Text]()
+![Alt Text]()
+![Alt Text]()
+![Alt Text]()
 ---
 
 ## Contributing
